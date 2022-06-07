@@ -1,4 +1,4 @@
-# cypress-basic-v2
+# cypress-basico-v2
 Sample project for the basic course of the Talking About Testing online school.
 
 ## Pre-requirements
